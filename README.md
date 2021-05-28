@@ -12,7 +12,7 @@ In this project I built a back end for an e-commerce site by modifying starter c
 
 As a manager at an internet retail company
 I want a back end for my e-commerce website that uses the latest technologies
-so thatmy company can compete with other e-commerce companies.
+so that my company can compete with other e-commerce companies.
 
 I created an application to GET routes to return all categories, all products, and all tags being tested in Insomnia Core.
 
