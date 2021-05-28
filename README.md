@@ -1,5 +1,8 @@
 E-Commerce Back End
 
+![image](https://user-images.githubusercontent.com/80869140/119926747-8fb75880-bf3d-11eb-963e-914d7e5a35d2.png)
+
+
 In this project I built a back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. You’ll need to submit a link to the video and add it to the readme of your project.
